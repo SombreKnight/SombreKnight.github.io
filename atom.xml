@@ -6,7 +6,7 @@
   <link href="http://www.kukespace.com/atom.xml" rel="self"/>
   
   <link href="http://www.kukespace.com/"/>
-  <updated>2021-01-09T03:46:32.296Z</updated>
+  <updated>2021-01-09T05:30:02.000Z</updated>
   <id>http://www.kukespace.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nacos单机部署</title>
+    <link href="http://www.kukespace.com/2021/01/09/dVyLrTmxSzmUKloe/"/>
+    <id>http://www.kukespace.com/2021/01/09/dVyLrTmxSzmUKloe/</id>
+    <published>2021-01-09T05:36:22.000Z</published>
+    <updated>2021-01-09T05:30:02.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Nacos中文官网&quot;&gt;&lt;a href=&quot;#Nacos中文官网&quot; class=&quot;headerlink&quot; title=&quot;Nacos中文官网&quot;&gt;&lt;/a&gt;Nacos中文官网&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://nacos.io/zh-cn/&quot;&gt;https://</summary>
+      
+    
+    
+    
+    <category term="SpringCloudAlibaba" scheme="http://www.kukespace.com/categories/SpringCloudAlibaba/"/>
+    
+    
+    <category term="服务注册" scheme="http://www.kukespace.com/tags/%E6%9C%8D%E5%8A%A1%E6%B3%A8%E5%86%8C/"/>
+    
+    <category term="服务发现" scheme="http://www.kukespace.com/tags/%E6%9C%8D%E5%8A%A1%E5%8F%91%E7%8E%B0/"/>
+    
+    <category term="Nacos" scheme="http://www.kukespace.com/tags/Nacos/"/>
+    
+    <category term="微服务" scheme="http://www.kukespace.com/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
