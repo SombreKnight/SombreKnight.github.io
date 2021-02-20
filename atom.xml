@@ -6,7 +6,7 @@
   <link href="https://sombreknight.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://sombreknight.gitee.io/"/>
-  <updated>2021-01-23T15:29:34.000Z</updated>
+  <updated>2021-02-20T07:44:15.000Z</updated>
   <id>https://sombreknight.gitee.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java虚拟机的体系结构---运行时数据区</title>
+    <link href="https://sombreknight.gitee.io/2021/02/20/TwKQVMOtQ3nL1Dry/"/>
+    <id>https://sombreknight.gitee.io/2021/02/20/TwKQVMOtQ3nL1Dry/</id>
+    <published>2021-02-20T07:44:10.000Z</published>
+    <updated>2021-02-20T07:44:15.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;官方文档：&lt;a href=&quot;https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-2.html&quot;&gt;https://docs.oracle.com/javase/specs/jvms/se8/</summary>
+      
+    
+    
+    
+    <category term="Java" scheme="https://sombreknight.gitee.io/categories/Java/"/>
+    
+    <category term="虚拟机" scheme="https://sombreknight.gitee.io/categories/Java/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+    
+    <category term="Java" scheme="https://sombreknight.gitee.io/tags/Java/"/>
+    
+    <category term="JVM" scheme="https://sombreknight.gitee.io/tags/JVM/"/>
+    
+  </entry>
   
   <entry>
     <title>《中间件之Redis》系列一：基础总结</title>
@@ -41,9 +68,9 @@
     <category term="系列文章" scheme="https://sombreknight.gitee.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="Redis" scheme="https://sombreknight.gitee.io/tags/Redis/"/>
-    
     <category term="中间件" scheme="https://sombreknight.gitee.io/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="Redis" scheme="https://sombreknight.gitee.io/tags/Redis/"/>
     
   </entry>
   
@@ -71,9 +98,9 @@
     <category term="系列文章" scheme="https://sombreknight.gitee.io/categories/%E4%B8%AD%E9%97%B4%E4%BB%B6/%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="Redis" scheme="https://sombreknight.gitee.io/tags/Redis/"/>
-    
     <category term="中间件" scheme="https://sombreknight.gitee.io/tags/%E4%B8%AD%E9%97%B4%E4%BB%B6/"/>
+    
+    <category term="Redis" scheme="https://sombreknight.gitee.io/tags/Redis/"/>
     
   </entry>
   
